@@ -1,0 +1,41 @@
+- Park Now
+	Gestão inteligente de estacionamentos
+- serviço automatizado e portátil para registrar os veículos, tornando o primeiro contato inteligente e ágil.
+- serviço de cancela automática com totem de emissão de ticket
+- sistemas de identificação automática de veículos (sem parar, conectcar, veloe)
+- serviços inteligentes e automatizados, armazenamos uma base de dados de cada veículo recepcionado, e monitoramos diariamente o estacionamento, implantando melhorias necessárias.
+
+VJS Sistemas
+ 
+- Cancela Automática Acionamento Por Botoeira
+- Monitoramento de Pátio Através de Câmeras
+- Tóten com Leitor de Código de Barras
+- Controle Vagas Para Estacionamentos, preparados para as variações do ambiente, como temperatura e chuva.
+- Expedidora de Tickets
+- Monitoramento de vagas disponíveis
+
+MADIS
+
+- Terminal de Auto-Atendimento, facilita na cobrança do ticket reduzindo a fila nos caixas de pagamento e o custo com funcionários.
+- Reconhecimento de Placa, capaz de identificar e rastrear placas automotivas.
+
+Parkeer
+- Acréscimo de serviços como lava-jato, lava-rápido, cera, polimento e outros;
+- Proteção do sistema com anti-fraude
+- Parcerias de convênios
+
+Estacionamento Digital
+- Você precisa se cadastrar primeiro;
+- Cadastrar o valor que desejar em créditos;
+- Depois é só estacionar em uma vaga regular;
+- Alocar sua placa e pronto!
+
+Easy Park
+- aplicativo que mostra as vagas disponíveis;
+- Permite a ativação de vouchers e cupons de desconto;
+
+Jump Park
+- Envio de recibo por e-mail;
+- Aplicativo funciona offline.
+
+
